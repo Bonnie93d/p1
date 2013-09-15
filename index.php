@@ -38,10 +38,10 @@
 
 	<footer>
     	<address>
-        Boston, <abbr title="Massachusetts">MA</abbr> 012125 USA (xxx) xxx-xxxx
+        Boston, <abbr title="Massachusetts">MA</abbr> 012125 USA
         </address>
 
-         <p>© 2013 BonnieDowling.com</p>
+         <p>© 2013 BonnieDowling.biz</p>
 	</footer>
 
 </body>
