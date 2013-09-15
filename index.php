@@ -38,7 +38,7 @@
 
 	<footer>
     	<address>
-        123 Main Street, Anywhere, <abbr title="Massachusetts">MA</abbr> 01234 USA (987) 654-3210
+        Boston, <abbr title="Massachusetts">MA</abbr> 012125 USA (xxx) xxx-xxxx
         </address>
 
          <p>© 2013 BonnieDowling.com</p>
